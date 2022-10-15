@@ -1,3 +1,6 @@
+
+
+
 # design.h
 This header file is for quick designing of your project
 
@@ -16,5 +19,14 @@ For ex If using turbo C
 💀- past the file there and it's done
 
 Now simple do #include<DESIGN.h>
+## Demo
+
+https://drive.google.com/file/d/1Vlr1zL9ixNlckWHw723VHYC6u-jsSxoC/view
+
+
+## Links
+
+https://linktr.ee/jaintushar
+
     
 
